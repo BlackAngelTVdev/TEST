@@ -1,0 +1,20 @@
+Changes in Release 2.2:
+-armor changes
+-golden tools changes
+-new ingots
+-hotbar & icon changes
+-OptiFine: new XP orbs, new XP level color, new durability color
+
+
+Source:
+Faithful x32 by Faithful Team (base textures)
+
+
+Official download:
+https://www.curseforge.com/minecraft/texture-packs/fpluspvp
+
+
+THANK YOU FOR USING F+ PVP!
+
+
+Created by sasos
