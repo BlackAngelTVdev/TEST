@@ -1,6 +1,6 @@
 {
   "PokeMoonX": {
-"url": "https://raw.githubusercontent.com/BlackAngelTVdev/TEST/main/files/pokemoonx.json",
+"url": "https://raw.githubusercontent.com/BlackAngelTVdev/TEST/main/files/instances/LaxaCube/",
     "loadder": {
       "minecraft_version": "1.16.5",
       "loadder_type": "forge",
